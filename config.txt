@@ -1,0 +1,6 @@
+randomParcelPerTick=2
+interval=3
+Istanbul
+Ankara
+Izmir
+Bursa

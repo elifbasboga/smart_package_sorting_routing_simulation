@@ -1,4 +1,3 @@
----
 
 # 📦 ParcelSortX: Smart Package Sorting and Routing Simulation
 

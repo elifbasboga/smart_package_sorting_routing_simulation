@@ -80,3 +80,6 @@ Total parcels returned: 2
 
 * The simulation is **non-deterministic**: parcel combinations vary with each run.
 
+Dilan Elif Başboğa
+Ahsen Keçeci
+
